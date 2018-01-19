@@ -303,7 +303,7 @@
     <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
     <h3 class="reward-title">
         <i class="icon icon-quote-left"></i>
-        谢谢老爷支持~
+        thank you for your support~
         <i class="icon icon-quote-right"></i>
     </h3>
     <div class="reward-content">
@@ -455,10 +455,10 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: true };
     var OriginTitile = document.title, titleTime;
     document.addEventListener('visibilitychange', function() {
         if (document.hidden) {
-            document.title = '页面去哪里了！';
+            document.title = 'U are leaving from here';
             clearTimeout(titleTime);
         } else {
-            document.title = '咦!又好了!';
+            document.title = 'yeah! back again!';
             titleTime = setTimeout(function() {
                 document.title = OriginTitile;
             },2000);
