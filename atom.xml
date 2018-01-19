@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://senmumu.github.io/"/>
-  <updated>2018-01-15T13:50:18.000Z</updated>
+  <updated>2018-01-19T15:33:38.000Z</updated>
   <id>http://senmumu.github.io/</id>
   
   <author>
@@ -17,55 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://senmumu.github.io/2018/01/15/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E4%B9%8B%E5%AE%97%E6%97%A8/"/>
-    <id>http://senmumu.github.io/2018/01/15/本博客之宗旨/</id>
-    <published>2018-01-15T13:50:18.000Z</published>
-    <updated>2018-01-15T13:50:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://senmumu.github.io/2018/01/15/%E6%A6%82%E8%BF%B0%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97/"/>
-    <id>http://senmumu.github.io/2018/01/15/概述我的奋斗/</id>
-    <published>2018-01-15T13:50:18.000Z</published>
-    <updated>2018-01-15T13:50:18.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Introduce myself</title>
     <link href="http://senmumu.github.io/2018/01/15/introduce_myself/"/>
     <id>http://senmumu.github.io/2018/01/15/introduce_myself/</id>
     <published>2018-01-15T13:50:18.000Z</published>
-    <updated>2018-01-19T15:24:31.000Z</updated>
+    <updated>2018-01-19T15:33:38.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="New-Citizen-In-East-of-China"><a href="#New-Citizen-In-East-of-China" class="headerlink" title="New Citizen In East of China"></a>New Citizen In East of China</h1><p>When I was a young boy in high school, I image a world under my pen.</p><p>When I was a adult struggling in this fascinating world, I image a world with my keyboard.</p><p>I was given birth in a small village in Anhui province, and now I continuing my career in east of china where people call <strong>Yangtze Delta</strong>, mostly in Shanghai, and at this moment– 01.19.2018, I take place as a data engeneer in data department of a middle size company which is focused on spreading infomation in Med and Bio. I deale with half structured data and text mainly,<br>and write <strong>Python</strong> mainly. However, I have some experience in writing d3.js and vue.js and boostrap , also Use <strong>golang</strong> and <strong>Spark</strong> usually.</p><h1 id="My-Study"><a href="#My-Study" class="headerlink" title="My Study"></a>My Study</h1><p>I have earned a BS degree in Industrial Engineering, and I want to earn a Master degree in applied Math in Tsinghua University, It’s on the top of my list.</p><p>I graduated with a middle level GPA, so I shall work hard to get in Tsinghua for a two year master project.</p><p>I like reading historical research publications and do some research in History,mainly focus on 1760-1950s Northeast of china ,where people called <a href="https://en.wikipedia.org/wiki/Manchuria" target="_blank" rel="noopener">Manchuria</a>.</p><p>In engineering field, I am working on Network Science, Graph Theory, Natural Language Processing, and Knowledge Base. and till now I starting reading frontier papers and apply them into production.</p><p>I also do some reading in Algebraic Geometry which is so brilliant, and is dabbled in Stochastic Process.</p><h1 id="My-wish-list"><a href="#My-wish-list" class="headerlink" title="My wish list"></a>My wish list</h1><p>I’ll meet 24 in lunar new year, and wanna to be a responsible man for job, for family and for my girlfriend.</p><p>Now I’m learning Japanese and French, I wish I can speak them freely someday, maybe New Year at next year!</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="New-Citizen-In-East-of-China"><a href="#New-Citizen-In-East-of-China" class="headerlink" title="New Citizen In East of China"></a>New Citizen In East of China</h1><p>When I was a young boy in high school, I image a world under my pen.</p><p>When I was a adult struggling in this fascinating world, I image a world with my keyboard.</p><p>I was born in a small village in Anhui province of China, and now I am continuing my career in East of China where people call <strong>Yangtze Delta</strong>, mostly in Shanghai, and at this moment– 01.19.2018, I take place as a data engineer in data department of a middle size company which is focused on spreading infomation in Med and Bio. I deal with half-structured data and text mainly,<br>and write <strong>Python</strong> mainly. However, I have some experience in writing d3.js and vue.js and boostrap, also Use <strong>golang</strong> and <strong>Spark</strong> usually.</p><h1 id="My-Study"><a href="#My-Study" class="headerlink" title="My Study"></a>My Study</h1><p>I have earned a BS degree in Industrial Engineering, and I want to earn a Master degree in applied Math in Tsinghua University, It’s on the top of my list.</p><p>I graduated with a middle level GPA, so I shall work hard to get in Tsinghua for a two year master project.</p><p>I like reading historical research publications and do some research in History, mainly focus on 1760-1950s Northeast of china, where people called <a href="https://en.wikipedia.org/wiki/Manchuria" target="_blank" rel="noopener">Manchuria</a>.</p><p>In engineering field, I am working on Network Science, Graph Theory, Natural Language Processing, and Knowledge Base. and till now I start reading frontier papers and applying them into production.</p><p>I also do some reading in Algebraic Geometry which is so brilliant, and am dabbled in Stochastic Process.</p><h1 id="My-wish-list"><a href="#My-wish-list" class="headerlink" title="My wish list"></a>My wish list</h1><p>I’ll meet 24 in lunar new year, and wanna to be a responsible man for job, for family and for my girlfriend.</p><p>Now I’m learning Japanese and French, I wish I can speak them freely someday, maybe New Year at next year!</p>]]></content>
     
     <summary type="html">
     
@@ -101,6 +59,48 @@
     
     
       <category term="casual_talk" scheme="http://senmumu.github.io/tags/casual-talk/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://senmumu.github.io/2018/01/15/general_intorduce_of_my_struggle/"/>
+    <id>http://senmumu.github.io/2018/01/15/general_intorduce_of_my_struggle/</id>
+    <published>2018-01-15T13:50:18.000Z</published>
+    <updated>2018-01-19T15:29:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://senmumu.github.io/2018/01/15/pupose_of_this_blog/"/>
+    <id>http://senmumu.github.io/2018/01/15/pupose_of_this_blog/</id>
+    <published>2018-01-15T13:50:18.000Z</published>
+    <updated>2018-01-19T15:28:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
     
   </entry>
   
